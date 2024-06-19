@@ -16,3 +16,5 @@ wandb/
 # pc_environment.env
 outputlog*
 errorlog*
+
+.DS_Store
